@@ -10,6 +10,14 @@
 
 ---
 
+## Снимки экрана
+---
+<img width="1898" height="1199" alt="Снимок экрана 2025-11-10 190156" src="https://github.com/user-attachments/assets/e734b0cd-10c1-42e9-8bcc-7bd5afa6fa5a" />
+<img width="1897" height="1196" alt="Снимок экрана 2025-11-10 190222" src="https://github.com/user-attachments/assets/d43fcfa0-d8fa-401b-ab35-f1c5cc7a5143" />
+<img width="1897" height="1197" alt="Снимок экрана 2025-11-10 190237" src="https://github.com/user-attachments/assets/281538cd-a269-4679-a3fa-594f91413264" />
+
+---
+
 ## Основные возможности
 
 - Просмотр автопарка с изображениями
